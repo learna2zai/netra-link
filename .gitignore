@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+
+# Xcode
+.swiftpm/xcode/
+DerivedData/
+xcuserdata/
+
+# Optional: Ignore Package.resolved for library packages
+# Package.resolved
+
+# Other common ignores
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+.DS_Store
